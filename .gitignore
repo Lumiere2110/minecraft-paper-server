@@ -1,0 +1,27 @@
+# 大きいファイル・自動生成されるもの
+paper.jar
+java/
+libraries/
+versions/
+cache/
+.paper/
+logs/
+crash-reports/
+
+# ワールドデータ
+world/
+world_nether/
+world_the_end/
+
+# 個人情報・秘密情報を含むもの
+server.properties
+server.properties.bak
+ops.json
+whitelist.json
+usercache.json
+banned-ips.json
+banned-players.json
+plugins/bStats/
+
+# プラグインの一時ファイル
+plugins/spark/tmp/
